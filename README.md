@@ -42,11 +42,10 @@ Each operation is encapsulated in a dedicated method, improving readability and 
 
 | Technology        | Purpose                          |
 |------------------|----------------------------------|
-| Java (JDK 16+)    | Programming language              |
-| VS Code / IntelliJ | IDEs used for development       |
+| Java (JDK 17)    | Programming language              |
+| VS Code | IDEs used for development       |
 | Terminal / Console | Running and testing application |
-| `java.util.Scanner` | Capturing user input           |
-| `java.lang.Math`   | Mathematical utilities          |
+| `java.util.*` | Capturing user input,  Mathematical utilities |
 
 ---
 

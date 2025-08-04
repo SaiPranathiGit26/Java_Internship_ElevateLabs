@@ -1,6 +1,6 @@
-# Java Console Calculator
+# 🧮 Java Console Calculator
 
-## Overview
+## 📘 Overview
 
 This project is a console-based calculator application developed in Java. It provides users with an interactive, menu-driven interface to perform various mathematical operations including addition, subtraction, multiplication, division, power computation, square, and square root.
 
@@ -8,9 +8,9 @@ The calculator is designed with a modular architecture using individual methods 
 
 ---
 
-## Features
+## ✨ Features
 
-### Core Functionalities
+### 🔹 Core Functionalities
 
 - **Addition**: Adds multiple numbers provided by the user.
 - **Subtraction**: Subtracts a sequence of numbers from an initial value.
@@ -20,7 +20,7 @@ The calculator is designed with a modular architecture using individual methods 
 - **Square Root**: Calculates the square root of a non-negative number.
 - **Power**: Raises a base to an exponent using `Math.pow`.
 
-### Input Handling and Safety
+### 🛡️ Input Handling and Safety
 
 - Global `Scanner` object to manage all user inputs efficiently.
 - Validations to prevent division by zero.
@@ -29,27 +29,26 @@ The calculator is designed with a modular architecture using individual methods 
 
 ---
 
-## Program Flow
+## 🔁 Program Flow
 
 The calculator operates in a continuous loop until the user selects the exit option. The flow is managed using a `while` loop paired with a `switch-case` structure to handle the chosen operation.
-
 
 Each operation is encapsulated in a dedicated method, improving readability and maintenance.
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 
 | Technology        | Purpose                          |
 |------------------|----------------------------------|
 | Java (JDK 17)    | Programming language              |
-| VS Code | IDEs used for development       |
+| VS Code          | IDE used for development          |
 | Terminal / Console | Running and testing application |
-| `java.util.*` | Capturing user input,  Mathematical utilities |
+| `java.util.*`    | Capturing user input, Mathematical utilities |
 
 ---
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project helped reinforce key programming concepts such as:
 
@@ -61,14 +60,14 @@ This project helped reinforce key programming concepts such as:
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Thirakala Sai Pranathi**  
 Aspiring software engineer with a focus on building practical applications and mastering core programming concepts.
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
 - Add support for floating-point precision control
 - Implement additional mathematical operations (modulus, factorial)
@@ -77,7 +76,6 @@ Aspiring software engineer with a focus on building practical applications and m
 
 ---
 
-## License
+## 📝 License
 
 This project is provided for educational purposes. You are free to use, modify, and build upon it.
-
